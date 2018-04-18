@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+my name is Ali I am from iraq and I come to america in 2016/4/21 and I like to play soccer and my goal to be soccer player.
 
 ### More Information
 
